@@ -1,15 +1,113 @@
-**# 💫 About Me:
-🎓 B.Tech Student | Full Stack Developer<br>💼 SDE Intern — building AI agent evaluation frameworks<br>🌐 Crafting end-to-end web apps with React, Next.js, Node.js, Django & FastAPI<br>🤖 Exploring the intersection of AI and full-stack development<br>🚀 Currently working on real-world projects to prep for full-time roles in 2026<br>📫 Open to collaborations, opportunities & interesting builds
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Tanmay+Manda+%F0%9F%91%8B;Full+Stack+Developer;SDE+Intern+%40+Aunix;Building+for+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MandaTanmay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=MandaTanmay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MandaTanmay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=MandaTanmay&style=for-the-badge&color=bd93f9&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MandaTanmay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->**
+## 🧑‍💻 About Me
+
+```ts
+const tanmay = {
+  name: "Tanmay Manda",
+  role: ["Full Stack Developer", "SDE Intern"],
+  college: "SRKR Engineering College",
+  year: "3rd Year B.Tech",
+  currentWork: "AI Agent Evaluation Frameworks @ Aunix",
+  stack: ["React", "Next.js", "Node.js", "Express", "LangGraph", "LangSmith"],
+  learning: ["DSA & Competitive Programming", "AI & LLMs"],
+  goal: "Open to Full-Time Roles in 2026 🎯",
+  contact: "mandatanmay27@gmail.com",
+};
+```
+
+---
+
+## 🚀 What I'm Up To
+
+- 🏗️ **Building** — AI agent evaluation pipelines using LangGraph & LangSmith
+- 📚 **Learning** — DSA, Competitive Programming & diving deep into LLMs
+- 🌐 **Crafting** — Full-stack apps with React, Next.js, Node.js & FastAPI
+- 🎯 **Targeting** — Full-time SDE roles in 2026
+- 💬 **Open to** — Collaborations, interesting builds & opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI / Agents
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 🌟 Featured Project
+
+### 🤝 [CollabGrow](https://github.com/MandaTanmay/CollabGrow)
+> A student collaboration platform connecting learners based on skills and interests.
+
+- **Stack:** Next.js 15, Node.js/Express, Supabase (PostgreSQL), Python/FastAPI
+- **Features:** Hybrid recommendation engine (cosine similarity + semantic embeddings), real-time chat & notifications, 31-table schema with 100+ RLS policies
+- **Deployed on:** Vercel + Render
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MandaTanmay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandaTanmay&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=MandaTanmay&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-manda)
+[![Portfolio](https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-roan-eta-71.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandatanmay27@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <i>"Code. Learn. Ship. Repeat."</i>
+  <br/><br/>
+  <b>⭐ Star my repos if you find them useful!</b>
+</div>
