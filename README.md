@@ -89,7 +89,19 @@ const tanmay = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MandaTanmay&theme=dracula&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=MandaTanmay&theme=dracula&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MandaTanmay/MandaTanmay/output/github-snake-dark.svg" alt="Snake animation" />
+
 </div>
 
 ---
